@@ -26,6 +26,23 @@ export const curryList = [
   },
 
 ]
+export const articleList = [
+    { 
+        "id" : 1,
+        "img" : "/articles-images/plate-method.png",
+        "title" : "The Plate Method"
+    },
+    { 
+        "id" : 2,
+        "img" : "/articles-images/inflammation.png",
+        "title" : "Inflammation"
+    },
+    { 
+        "id" : 1,
+        "img" : "/articles-images/skin-care-and-nutrition.png",
+        "title" : "Skin Care and nutrition"
+    },
+]
 
 
 export const riceList = [

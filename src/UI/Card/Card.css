@@ -6,6 +6,7 @@
     flex-direction: column;
     height: 300px;
     width: 20%;
+    text-align: center;
   }
 
 .card-image{
@@ -13,5 +14,6 @@
     border-radius: 0.5em;
     overflow: hidden;
     opacity: 80%;
+    height: 90%;
 }
 
