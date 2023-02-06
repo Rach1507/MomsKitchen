@@ -1,0 +1,17 @@
+.card {
+    border: 3px solid whitesmoke;
+    border-radius: 0.5em;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 20%;
+  }
+
+.card-image{
+    border: 3px solid whitesmoke;
+    border-radius: 0.5em;
+    overflow: hidden;
+    opacity: 80%;
+}
+

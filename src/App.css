@@ -1,5 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@100;300&display=swap');
+
 .App {
   text-align: center;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  background-color: rgb(244, 225, 225);
+}
+
+*{
+  font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 .App-logo {
@@ -28,6 +36,11 @@
   color: #61dafb;
 }
 
+.main-container{
+  display: flex;
+  gap: 5%;  
+  margin: 3%;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
