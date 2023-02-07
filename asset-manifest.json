@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/MomsKitchen/static/css/main.193ef335.css",
-    "main.js": "/MomsKitchen/static/js/main.52c0ef88.js",
+    "main.js": "/MomsKitchen/static/js/main.99e919fa.js",
     "static/js/787.3b6bc5f5.chunk.js": "/MomsKitchen/static/js/787.3b6bc5f5.chunk.js",
     "static/media/logo1.jpeg": "/MomsKitchen/static/media/logo1.0d2cd5056f932217be58.jpeg",
     "index.html": "/MomsKitchen/index.html",
     "main.193ef335.css.map": "/MomsKitchen/static/css/main.193ef335.css.map",
-    "main.52c0ef88.js.map": "/MomsKitchen/static/js/main.52c0ef88.js.map",
+    "main.99e919fa.js.map": "/MomsKitchen/static/js/main.99e919fa.js.map",
     "787.3b6bc5f5.chunk.js.map": "/MomsKitchen/static/js/787.3b6bc5f5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.193ef335.css",
-    "static/js/main.52c0ef88.js"
+    "static/js/main.99e919fa.js"
   ]
 }
