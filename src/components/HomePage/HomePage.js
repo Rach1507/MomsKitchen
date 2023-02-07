@@ -75,6 +75,9 @@ const timeFilterChangeHandler = (time,recipes) => {
       <MainView recipeList={recipes}></MainView>
     </div>
 
+    <footer className='footer' >
+        <p > &copy; Copyright 2023 </p> 
+    </footer>
     </>
 
 

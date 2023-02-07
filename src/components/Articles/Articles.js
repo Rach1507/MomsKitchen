@@ -23,6 +23,9 @@ let Articles =() =>{
         </div>
             <MainView recipeList={articleList}></MainView>
     </div>
+    <footer className='footer-sticky' >
+        <p > &copy; Copyright 2023 </p> 
+    </footer>
     </>)
 
 }

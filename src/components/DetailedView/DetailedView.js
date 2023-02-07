@@ -25,7 +25,12 @@ let DetailedView = (props) =>{
                 </div>
             </div>
             <hr />
-        </div></>
+        </div>
+        <footer className='footer' >
+        <p > &copy; Copyright 2023 </p> 
+    </footer>
+    </>
+
         );
 }
 

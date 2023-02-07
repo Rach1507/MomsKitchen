@@ -50,3 +50,24 @@
     transform: rotate(360deg);
   }
 }
+
+
+.footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 1%;
+  width: 100%;
+}
+
+
+.footer-sticky{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 1%;
+ 
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
