@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MomsKitchen/static/css/main.1d0ac24e.css",
-    "main.js": "/MomsKitchen/static/js/main.f8545f8a.js",
+    "main.css": "/MomsKitchen/static/css/main.515841fd.css",
+    "main.js": "/MomsKitchen/static/js/main.81695233.js",
     "static/js/787.3b6bc5f5.chunk.js": "/MomsKitchen/static/js/787.3b6bc5f5.chunk.js",
     "static/media/logo1.jpeg": "/MomsKitchen/static/media/logo1.0d2cd5056f932217be58.jpeg",
     "index.html": "/MomsKitchen/index.html",
-    "main.1d0ac24e.css.map": "/MomsKitchen/static/css/main.1d0ac24e.css.map",
-    "main.f8545f8a.js.map": "/MomsKitchen/static/js/main.f8545f8a.js.map",
+    "main.515841fd.css.map": "/MomsKitchen/static/css/main.515841fd.css.map",
+    "main.81695233.js.map": "/MomsKitchen/static/js/main.81695233.js.map",
     "787.3b6bc5f5.chunk.js.map": "/MomsKitchen/static/js/787.3b6bc5f5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d0ac24e.css",
-    "static/js/main.f8545f8a.js"
+    "static/css/main.515841fd.css",
+    "static/js/main.81695233.js"
   ]
 }
