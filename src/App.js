@@ -12,7 +12,7 @@ import Articles from './components/Articles/Articles';
 
 
 
-const router = createHashRouter([
+const router = createBrowserRouter([
   { path: '/MomsKitchen', element: <HomePage /> },
   { path: '/recipes', element: <DetailedView /> },
   { path: '/about', element: <DetailedView /> },
