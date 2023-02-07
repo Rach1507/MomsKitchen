@@ -12,7 +12,7 @@ const Header = () => {
     
       let aboutDetailsHandler = (event) => {
   
-        navigate('/about',{state:{id:1,title:"Mom's Kitchen", img: logo }});
+        navigate('#/about',{state:{id:1,title:"Mom's Kitchen", img: logo }});
     
       }
   return (
@@ -21,7 +21,7 @@ const Header = () => {
         <nav className="header-container">
           <div className="brand-logo">
               <img src={logo} className="header-logo" />
-              <a className="brand-title" href="/MomsKitchen">
+              <a className="brand-title" href="#/MomsKitchen">
                   <h1 className="header-title">Mom's Kitchen</h1>
               </a>
           </div>
@@ -31,8 +31,8 @@ const Header = () => {
           <div>
               
               <ul className="header-menu">
-                <li className="nav-item"> <a href="/MomsKitchen">Recipes</a></li>
-                <li className="nav-item"> <a href="/articles">Articles</a> </li>
+                <li className="nav-item"> <a href="#/MomsKitchen">Recipes</a></li>
+                <li className="nav-item"> <a href="#/articles">Articles</a> </li>
                 <li className="nav-item"> <a onClick={aboutDetailsHandler}>About</a> </li>
               </ul>
                     

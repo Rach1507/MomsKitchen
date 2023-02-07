@@ -1,7 +1,7 @@
 
 import './App.css';
 
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import { createBrowserRouter, createHashRouter, RouterProvider } from 'react-router-dom';
 
 import HomePage from './components/HomePage/HomePage';
 import DetailedView from './components/DetailedView/DetailedView';
@@ -12,7 +12,7 @@ import Articles from './components/Articles/Articles';
 
 
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   { path: '/MomsKitchen', element: <HomePage /> },
   { path: '/recipes', element: <DetailedView /> },
   { path: '/about', element: <DetailedView /> },
